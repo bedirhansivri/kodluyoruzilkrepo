@@ -24,7 +24,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 #License
 
->[MIT]
+>[MIT](www.mit.com)
 
 
 
